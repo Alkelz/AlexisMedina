@@ -10,8 +10,13 @@ Ingeniero de Sistemas con experiencia en análisis de datos, generación de repo
 - Python 🐍: Pandas, Matplotlib, Seaborn, Numpy.
 - SQL Server 🗄️.
 - Power BI 📊.
-- R Programing 
+- R Programing
 
+## ✨ Mis intereses
+- Diseño de herramientas de recolección de datos.
+- Visualización de datos interactiva.
+- Análisis de datos descriptivo y avanzado.
+- 
 
 ## 📬 Contacto
 
