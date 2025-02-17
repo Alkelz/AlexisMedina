@@ -16,7 +16,7 @@ Ingeniero de Sistemas con experiencia en análisis de datos, generación de repo
 - Diseño de herramientas de recolección de datos.
 - Visualización de datos interactiva.
 - Análisis de datos descriptivo y avanzado.
-- 
+- Elaboración y supervisión de proyectos de análisis.
 
 ## 📬 Contacto
 
